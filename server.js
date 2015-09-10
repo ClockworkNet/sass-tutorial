@@ -16,4 +16,4 @@ app.use(express.static('dist/'));
 var server = app.listen('3000', function () {
 });
 
-console.log('Listening on port: 3000');
+console.log('Site Available at http://127.0.0.1:3000');
