@@ -1,0 +1,24 @@
+$font-size-base: 13px;
+
+
+$gray-base: #6C6B72;
+$brand-primary: #75E1C2;
+
+$brand-success: darken($brand-primary, 30%);
+$brand-info:#75E1C2;
+$brand-warning: #FFB700;
+$brand-danger: #A40005;
+
+$alert-success-bg:$brand-success;
+$alert-success-text:#fff;
+$alert-info-bg:$brand-info;
+
+$alert-warning-bg: $brand-warning;
+$alert-danger-bg: $brand-danger;
+$alert-danger-text: #fff;
+
+
+$navbar-height: 34px;
+$navbar-default-bg: $brand-primary;
+$navbar-default-brand-color: #fff;
+$navbar-default-link-color:$gray-base;
