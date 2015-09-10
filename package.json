@@ -7,6 +7,7 @@
     "express": "^4.12.3"
   },
   "devDependencies": {
+    "bootstrap-sass": "^3.3.5",
     "express-compile-sass": "^3.0.4"
   }
 }
