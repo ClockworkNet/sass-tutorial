@@ -1,11 +1,12 @@
 {
-	"name" : "sass_tutorial",
-	"description" : "",
-	"version" : "0.0.1",
-	"private" : true,
-	"dependencies" : {
-		"express": "^4.12.3"
-	},
-	"devDependencies": {
-	}
+  "name": "sass_tutorial",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "express-compile-sass": "^3.0.4"
+  }
 }
